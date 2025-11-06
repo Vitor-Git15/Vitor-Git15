@@ -21,7 +21,6 @@ I'm a Computer Science student (at UFMG) and a Backend Developer Intern, passion
 * 👨🏽‍💻 I’m currently working on **financial (billing) modules** for a large-scale ERP system, using **JavaScript, TypeScript, MongoDB, and Elasticsearch**.
 * 🎓 My background includes **2 years in Scientific Research** (using **Java**, **Kotlin**, and **Docker**) focusing on real-time data analysis.
 * 👯 I’m open to collaborating on open-source projects related to **Data Processing**, **Backend Systems**, or **C++**.
-* 🤔 I’m looking for insights and help with advanced **System Design** and **Software Architecture patterns**.
 * 💬 Ask me about: **Java**, **Kotlin**, **JavaScript/TypeScript**, **MongoDB**, **Docker**, or my transition from academic research to industry.
 * ⚡ **My Motivation:** I thrive in technically challenging environments that encourage collaboration and high-quality software solutions.
 * 📍 Based in Belo Horizonte, Brazil.
