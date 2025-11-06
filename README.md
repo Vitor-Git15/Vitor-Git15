@@ -1,8 +1,61 @@
-<h1 align="center">Hi 👋, I'm Vitor Vital</h1>
-<h3 align="left">Connect with me:</h3>
+## Hi, I'm Vitor Vital, a Developer 🚀 from Brazil.
+
 <p align="left">
-<a href="https://linkedin.com/in/vitor emanuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vitor emanuel" height="30" width="40" /></a>
+  <a href="https://github.com/Vitor-Git15">
+    <img alt="Github" src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/vitor-emanuel/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vitoremanuelg147@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+&nbsp;
+
+### 💬 About Me
+
+I'm a Computer Science student (at UFMG) and a Backend Developer Intern, passionate about solving complex problems and continuous learning.
+
+* 👨🏽‍💻 I’m currently working on **financial (billing) modules** for a large-scale ERP system, using **JavaScript, TypeScript, MongoDB, and Elasticsearch**.
+* 🎓 My background includes **2 years in Scientific Research** (using **Java**, **Kotlin**, and **Docker**) focusing on real-time data analysis.
+* 👯 I’m open to collaborating on open-source projects related to **Data Processing**, **Backend Systems**, or **C++**.
+* 🤔 I’m looking for insights and help with advanced **System Design** and **Software Architecture patterns**.
+* 💬 Ask me about: **Java**, **Kotlin**, **JavaScript/TypeScript**, **MongoDB**, **Docker**, or my transition from academic research to industry.
+* ⚡ **My Motivation:** I thrive in technically challenging environments that encourage collaboration and high-quality software solutions.
+* 📍 Based in Belo Horizonte, Brazil.
+
+---
+
+### 💻 Tech Stack
+
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg" alt="JavaScript" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="TypeScript" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg" alt="Kotlin" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-ar21.svg" alt="C++" height="40" />
+  <br/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="MongoDB" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" alt="Elastic" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="Docker" height="40" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/Vitor-Git15">
+    <img src="https://github-readme-stats.vercel.app/api?username=Vitor-Git15&show_icons=true&theme=dracula&rank_icon=github" alt="Vitor's GitHub Stats" />
+  </a>
+  <a href="https://github.com/Vitor-Git15">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor-Git15&layout=compact&theme=dracula" alt="Vitor's Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <small><i>Note: Most of my professional work (JavaScript) is on a private ERP system and doesn't appear in these stats.</i></small>
+</p>
