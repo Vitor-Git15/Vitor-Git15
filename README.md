@@ -1,4 +1,4 @@
-## Hi, I'm Vitor Vital, a Developer 🚀 from Brazil.
+## Hi, I'm Vitor Vital, a Developer from Brazil.
 
 <p align="left">
   <a href="https://github.com/Vitor-Git15">
